@@ -3,6 +3,13 @@
 A full-stack car management application built using **Next.js**, **Prisma**, **MongoDB**, and **TailwindCSS**.
 This app allows users to create, view, update, and delete car listings, with features like image upload, dark mode, and authentication.
 
+
+## Live Demo
+
+You can view the live demo of the Car Management App at:
+
+[Live Demo](https://car-management-app.vercel.app)
+
 ## Features
 
 - **CRUD Operations**: Create, read, update, and delete car listings.
